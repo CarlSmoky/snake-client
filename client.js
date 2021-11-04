@@ -28,42 +28,9 @@ const connect = function () {
   //   setTimeout(() => {
   //     conn.write("Move: left");
   //   }, 50);
-  //   setTimeout(() => {
-  //     conn.write("Move: up");
-  //   }, 100);
-  //   setTimeout(() => {
-  //     conn.write("Move: left");
-  //   }, 150);
-  //   setTimeout(() => {
-  //     conn.write("Move: up");
-  //   }, 200);
-  //   setTimeout(() => {
-  //     conn.write("Move: right");
-  //   }, 250);
-  //   setTimeout(() => {
-  //     conn.write("Move: up");
-  //   }, 300);
   //   // setInterval(() => {
   //   //   conn.write("Move: left");
   //   // }, 50);
-  //   setTimeout(() => {
-  //     conn.write("Move: right");
-  //   }, 350);
-  //   setTimeout(() => {
-  //     conn.write("Move: down");
-  //   }, 400);
-  //   setTimeout(() => {
-  //     conn.write("Move: left");
-  //   }, 450);
-  //   setTimeout(() => {
-  //     conn.write("Move: down");
-  //   }, 500);
-  //   setTimeout(() => {
-  //     conn.write("Move: right");
-  //   }, 550);
-  //   setTimeout(() => {
-  //     conn.write("Move: up");
-  //   }, 600);
     
   // });
 
